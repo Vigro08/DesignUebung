@@ -1,0 +1,11 @@
+.chart {
+    width: 900px;
+    height: 600px;
+}
+
+.chartShell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
